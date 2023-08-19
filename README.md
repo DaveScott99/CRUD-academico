@@ -19,7 +19,7 @@ onde o administrador poderá cadastrar um novo aluno, editar um aluno, listar to
 
 ![index](https://github.com/DaveScott99/CRUD-academico/assets/101915085/cc677a5f-3706-41e9-8c97-bf657cf5e567)
 
-![lista-alunos](https://github.com/DaveScott99/CRUD-academico/assets/101915085/2eea28fd-30b1-42ab-a4ca-6db95afefa88)
+![lista-alunos](https://github.com/DaveScott99/CRUD-academico/assets/101915085/184bdb6e-a471-431f-80e5-391c58e8b540)
 
 ![novo-aluno](https://github.com/DaveScott99/CRUD-academico/assets/101915085/8fc0a562-ba22-4b1c-a7e1-1d1d63fa22d6)
 
